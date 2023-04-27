@@ -1,0 +1,15 @@
+/home/hamzeh/Desktop/dotest/bin/Debug/net7.0/dotest
+/home/hamzeh/Desktop/dotest/bin/Debug/net7.0/dotest.deps.json
+/home/hamzeh/Desktop/dotest/bin/Debug/net7.0/dotest.runtimeconfig.json
+/home/hamzeh/Desktop/dotest/bin/Debug/net7.0/dotest.dll
+/home/hamzeh/Desktop/dotest/bin/Debug/net7.0/dotest.pdb
+/home/hamzeh/Desktop/dotest/obj/Debug/net7.0/dotest.csproj.AssemblyReference.cache
+/home/hamzeh/Desktop/dotest/obj/Debug/net7.0/dotest.GeneratedMSBuildEditorConfig.editorconfig
+/home/hamzeh/Desktop/dotest/obj/Debug/net7.0/dotest.AssemblyInfoInputs.cache
+/home/hamzeh/Desktop/dotest/obj/Debug/net7.0/dotest.AssemblyInfo.cs
+/home/hamzeh/Desktop/dotest/obj/Debug/net7.0/dotest.csproj.CoreCompileInputs.cache
+/home/hamzeh/Desktop/dotest/obj/Debug/net7.0/dotest.dll
+/home/hamzeh/Desktop/dotest/obj/Debug/net7.0/refint/dotest.dll
+/home/hamzeh/Desktop/dotest/obj/Debug/net7.0/dotest.pdb
+/home/hamzeh/Desktop/dotest/obj/Debug/net7.0/dotest.genruntimeconfig.cache
+/home/hamzeh/Desktop/dotest/obj/Debug/net7.0/ref/dotest.dll
